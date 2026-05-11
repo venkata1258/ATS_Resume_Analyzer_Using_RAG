@@ -1,8 +1,7 @@
-streamlit==1.37.0
-langchain==0.2.14
-langchain-community==0.2.12
+streamlit
+langchain
+langchain-community
 langchain-google-genai
 chromadb
-huggingface-hub
-python-dotenv==1.0.1
 pypdf
+python-dotenv
